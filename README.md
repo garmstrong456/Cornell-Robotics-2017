@@ -5,6 +5,9 @@ Code for the TEC-Bot 4.2 used in the Cornell Summer College 2017
 look for useful libraries here
 https://drive.google.com/open?id=0B42Xs3NxkUBUNGhYWG9INThYODA
 
+Student 3D print files
+https://drive.google.com/open?id=0B42Xs3NxkUBUaTZSdVJtY1FFY0U
+
 ## Drive motor calculations
 http://www.robotshop.com/blog/en/drive-motor-sizing-tool-9698
 
