@@ -1,7 +1,11 @@
 /*
- * Orientation LED
+ * LED Orientation
  * Greg Armstrong
  * July 2017
+ * 
+ * Sets an Adafruit NeoPixel RGB led to a color based on the angle of the x and z
+ * acceleration vector. Basically changes the color of the LED based on the orientation
+ * of the robot.
  */
 
 #include <math.h>
