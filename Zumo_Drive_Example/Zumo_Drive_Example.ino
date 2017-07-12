@@ -25,7 +25,7 @@
 #include <TECBot_PWMServoDriver.h>
 
 ZumoMotors motors;
-TECBot_PWMServoDriver servos = TECBot_PWMServoDriver.h():
+TECBot_PWMServoDriver servos = TECBot_PWMServoDriver();
 
 
 void setup() {
@@ -41,10 +41,12 @@ void setup() {
 
 void loop() {
   for (int i = -400; i < 400; i++) {
-    motors.setLeftSpeed(i, -i);
+    motors.setLeftSpeed(i);
+    motors.setRightSpeed(-i);
   }
   for (int i = 400; i > -400; i--) {
-    motors.setRightSpeed(i, -i);
+    motors.setLeftSpeed(i);
+    motors.setRightSpeed(-i);
   }
   for (int i = 0; i < 180; i++) {
     servos.setServo(4, i);
