@@ -43,13 +43,16 @@ void loop() {
   for (int i = -400; i < 400; i++) {
     motors.setLeftSpeed(i);
     motors.setRightSpeed(-i);
+    delay(10);
   }
   for (int i = 400; i > -400; i--) {
     motors.setLeftSpeed(i);
     motors.setRightSpeed(-i);
+    delay(10);
   }
   for (int i = 0; i < 180; i++) {
     servos.setServo(4, i);
+    delay(20);
   }
   for (int i = 180; i > 0; i--) {
     servos.setServo(4, i);
