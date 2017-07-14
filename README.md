@@ -1,5 +1,5 @@
 # Cornell-Robotics-2017
-Code for the TEC-Bot 4.2 used in the Cornell Summer College 2017
+Code and more for the TEC-Bot 4.2 used in the Cornell Summer College 2017
 
 # Where to go from here
 I've compiled some resources to help you explore the world of Arduino, robotics, electronics and engineering. If you're wondering what you can do with the kits you're taking home check out some of these links.
