@@ -5,7 +5,10 @@ Code for the TEC-Bot 4.2 used in the Cornell Summer College 2017
 I've compiled some resources to help you explore the world of Arduino, robotics, electronics and engineering. If you're wondering what you can do with the kits you're taking home check out some of these links.
 
 ## TEC Hub and the TEC-Bot
-The robot [kits](https://tec-hub.org/product/tec-bot-4-2/) you used were designed specially for this class by [TEC Hub](https://tec-hub.org/about/). TEC Hub is small company committed to developing educational tools to help inspire a new generation of makers and entrepenours. Keep an eye on their website for more exciting content, kits and ventures.
+The robot [kits](https://tec-hub.org/product/tec-bot-4-2/) you used were designed specially for this class by [TEC Hub](https://tec-hub.org/about/). TEC Hub is small company committed to developing educational tools to help inspire a new generation of makers and entrepenours. Keep an eye on their website for more exciting content, kits and ventures.  
+
+If you want more information about the kits and whats inside them, check out this bill of materials. It's a (mostly) complete list of all the parts in your kit. It also has links on where to buy extra parts, documentation and programming resources.  
+https://docs.google.com/spreadsheets/d/1FoPIQO5LDeyqUqdNSAf0xPCsxj_m6pPlD-_v8P_wfj0/edit?usp=sharing
 
 ## Arduino
 There are an almost endless number of projects you can do with an Arduino and a basic knowledge of electronics. If you need inspiration check out these links
@@ -38,6 +41,15 @@ Between these four websites you can probably find every electronics component av
 
 ## Custom Fabrication
 
+#### Makerspaces
+[Makerspaces](https://www.makerspaces.com/what-is-a-makerspace/) are what inspired me to get into robotics and electronics. If you need help with a project, space or tools to work, or just a place to find like minded engineers and hackers look for a Makerspace in your area.  
+
+Makerspaces often have cool digital manufacturing tools like 3D printers, laser cutters and CNC routers available to the general public. If you weren't able to get your fill of 3D printing with this class look for one in your area.
+
+#### Online Fabrication Services
+www.shapeways.com
+www.ponoko.com
+These websites will take your CAD files and turn them into actual parts. Prices vary depending on the size, complexity and material you need. It's not as practical as having direct access to a 3D printer or laser cutter, but its better than nothing.
 
 ## Link to Google Drive library folder
 look for useful libraries here
