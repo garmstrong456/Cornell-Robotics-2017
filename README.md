@@ -17,26 +17,26 @@ https://www.lifewire.com/arduino-project-ideas-2495311
 ## Materials
 Have an idea for an awesome project? Need to find a place to buy parts or raw materials? These are some of my go-to sources for the stuff that goes in my projects.
 
-### Adafruit
+#### Adafruit
 www.adafruit.com
 Founded by [Limor "Ladyada" Fried](https://www.adafruit.com/about) in 2005, Adafruit is all about providing electronics for makers of all skill levels. They stock useful components as well as high quality, in-house designed and manufactured electronics. Their tutorials, code and customer support are also some of the best out there. The PWM Driver board is an Adafruit product and many of the Arduino libraries we used were written by Adafruit.
 
-### Sparkfun
+#### Sparkfun
 www.sparkfun.com
 Similar to Adafruit. They tend to have slightly different products in stock so its worth checking both sites.
 
-### Pololu
+#### Pololu
 www.pololu.com
 Another website for hobbyist electronics and makers. Pololu tends to specialize more in robotics than Arduino. They've got a great selection of motors and actuators.
 
-### General Electronics Components
+#### General Electronics Components
 www.digikey.com
 www.newark.com
 www.jameco.com
 www.mouser.com
 Between these four websites you can probably find every electronics component available today. Digikey lists over 700,000 types of resistors alone. Navigating these sites can be intimidating, but learning how to read through datasheets and find the right component is an invaluable skill.
 
-##Custom Fabrication
+## Custom Fabrication
 
 
 ## Link to Google Drive library folder
